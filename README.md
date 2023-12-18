@@ -24,3 +24,15 @@ stringx 67.67.87
 ```
 
 ## Usage
+
+### Clone Repo
+```bash
+git clone https://github.com/haathim/Minimalist-Lexer.git
+cd Minimalist-Lexer
+```
+
+### Build & Run
+```bash
+gcc lexer.c -o lexer
+./lexer input.txt
+```
