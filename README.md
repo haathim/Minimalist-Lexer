@@ -1,7 +1,7 @@
 # Minimalist-Lexer
 
 ## Description
-This C program is designed to analyze a text file containing a mixture of numbers and character strings. The numbers can be integers or decimal values with decimal points, and they may be separated by spaces, tabs, or new lines. The program identifies integers, decimal numbers, and strings in the file and outputs the results.
+This C program is designed to tokenize (first stage of compilation process) a text file containing a mixture of numbers and character strings. The numbers can be integers or decimal values with decimal points, and they may be separated by spaces, tabs, or new lines. The program identifies integers, decimal numbers, and strings in the file and outputs the results.
 
 ## Input
 The input file should be provided as a parameter when executing the program. The input file contains a mixture of numbers and strings, separated by spaces, tabs, or new lines.
